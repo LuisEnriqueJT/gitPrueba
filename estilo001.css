@@ -1,0 +1,28 @@
+body{
+	background-color: paleturquoise;
+	margin: 0%;
+	padding: 0%; 
+	/*background-image: url("img/Captura.jpg");*/
+}
+
+th{
+	border: 2px solid black;
+	width: 10%;
+}
+
+header{
+	height: 180px;
+	width: 100%;
+	background-color: skyblue;
+}
+
+table{
+	width: 100%;
+	text-align: center;
+}
+
+td{
+	width: 20%;
+	background-color: black;
+	color: white;
+}
